@@ -250,7 +250,7 @@ private:
     }
 };
 void output_menu() {
-    cout << "1. Kelly–Kirkpatrick method\n";
+    cout << "1. KellyÂ–Kirkpatrick method\n";
     cout << "2. Andrew monotone chain\n";
     cout << "3. Graham scan\n";
     cout << "4. QuickHull\n";
